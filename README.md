@@ -1,6 +1,6 @@
 # 👀 Sobre mim
 
-Me chamo Eduardo Couto e sou estudando de Engenharia da Computação pela Universidade de Santa Cruz do Sul desde 2023/2.
+Me chamo Eduardo Couto e sou estudante de Engenharia da Computação pela Universidade de Santa Cruz do Sul desde 2023/2.
 Sou apaixonado por hardware e eletrônica e programação é um mundo recém descoberto por mim. 
 
 # 📂Disciplinas 
