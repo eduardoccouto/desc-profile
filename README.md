@@ -6,7 +6,7 @@ Vou utilizar o espaço do GitHub para guardar códigos de Fábrica de Sfotware e
 
 Minhas redes:
 
-<a href="linkedin.com/in/eduardo-da-costa-couto-827261289/"> <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"> </a>  
-<a href="https://www.instagram.com/ntidudu/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+<a href="https://linkedin.com/in/eduardo-da-costa-couto-827261289/"> <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>  
+<a href="https://www.instagram.com/ntidudu/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 
