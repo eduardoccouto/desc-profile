@@ -4,7 +4,7 @@ Me chamo Eduardo Couto e sou estudante de Engenharia da Computação pela Univer
 Sou apaixonado por hardware e eletrônica e programação é um mundo recém descoberto por mim. 
 
 # 📂Disciplinas 
-Aqui no GitHub vou compartilhar pequenos projetos desenvolvidos em aula nas displinas em andamento e as que já concluí :) 
+Aqui no GitHub vou compartilhar pequenos projetos desenvolvidos em aula nas disciplinas em andamento e as que já concluí :) 
 
 ° Fábrica de Software 🏋️‍♀️
 
